@@ -1,14 +1,10 @@
-# Project Title
-
-Brief description of what this project does and its purpose.
+# Working with 3js and VIte
 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 
 ## Project Overview
-
-Provide a detailed description of the project here. What is the project about? What problem does it solve? What technologies are used?
 
 👋🏼I have made a simple practice project about how 3js can be used in vite...
 I have used a simple html css and js structure along with tailwind css...😅
